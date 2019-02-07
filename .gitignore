@@ -1,0 +1,10 @@
+# folders to ignore in database
+esapi
+exports
+extensions
+logs
+reports
+certificates
+
+# keystore to ignore
+keystore.jks
